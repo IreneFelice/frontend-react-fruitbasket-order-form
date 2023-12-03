@@ -12,6 +12,9 @@ function App() {
                 <h2>Aardbeien</h2>
                 <button>-</button>
                 <button>+</button>
+            <h2>Bananen</h2>
+            <button>-</button>
+            <button>+</button>
             {/*/>*/}
 
         </form>
