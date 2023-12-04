@@ -1,0 +1,12 @@
+
+.productElement{
+    background-color: orange;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding: 30px;
+}
+
+input{
+    length: 30px;
+}
